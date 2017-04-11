@@ -1,0 +1,9 @@
+C:\dev\cs\DirTree\DirTree\bin\Debug\DirTree.exe.config
+C:\dev\cs\DirTree\DirTree\obj\Debug\DirTree.csprojResolveAssemblyReference.cache
+C:\dev\cs\DirTree\DirTree\bin\Debug\DirTree.exe
+C:\dev\cs\DirTree\DirTree\bin\Debug\DirTree.pdb
+C:\dev\cs\DirTree\DirTree\obj\Debug\DirTree.exe
+C:\dev\cs\DirTree\DirTree\obj\Debug\DirTree.pdb
+C:\dev\cs\DirTree\DirTree\bin\Debug\FluentCommandLineParser.dll
+C:\dev\cs\DirTree\DirTree\bin\Debug\FluentCommandLineParser.pdb
+C:\dev\cs\DirTree\DirTree\bin\Debug\FluentCommandLineParser.xml
