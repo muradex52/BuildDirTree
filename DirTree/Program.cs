@@ -17,6 +17,7 @@ namespace DirTree
         static void Main(string[] args)
         {
             string path = ParserArgs(args);
+            BuildDirTree.InitExcludedDirsList();
             BuildDirTree.Build(path);
         }
 
